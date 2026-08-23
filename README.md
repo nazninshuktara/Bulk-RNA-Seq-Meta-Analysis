@@ -75,7 +75,3 @@ Datasets included in this meta-analysis were identified via public repositories 
 ## License
 
 MIT License — see `LICENSE` for details.
-
-## Author
-
-Naznin Akter
