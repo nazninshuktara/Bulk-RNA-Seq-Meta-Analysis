@@ -1,6 +1,6 @@
 # **Bulk RNA-Seq Meta-Analysis Framework**
 
-A reproducible R pipeline for combining differential expression results across multiple independent bulk RNA-seq studies (GEO/SRA-derived) to identify genes that are consistently up- or down-regulated across datasets, rather than relying on the findings of any single study.
+A reproducible pipeline for combining differential expression results across multiple independent bulk RNA-seq studies (GEO/SRA-derived) to identify genes that are consistently up- or down-regulated across datasets, rather than relying on the findings of any single study.
 
 ---
 
